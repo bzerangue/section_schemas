@@ -19,6 +19,9 @@
 		</author>
 	</authors>
 	<releases>
+		<release version="2.1.1" date="2020-07-10" min="2.3.x" max="2.x.x">
+			- merged in changes from cylkee on count() test; merged in changes from michael-e on extension.driver
+		</release>
 		<release version="2.1.0" date="2016-03-06" min="2.3.x" max="2.x.x">
 			- Updated compatibility info
 		</release>
